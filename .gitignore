@@ -1,0 +1,4 @@
+node_modules/
+Data/
+csvGenerator.js
+.env
