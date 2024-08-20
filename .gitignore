@@ -1,4 +1,3 @@
 node_modules/
-Data/
-csvGenerator.js
 .env
+package-lock.json

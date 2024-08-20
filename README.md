@@ -17,7 +17,7 @@ Data Visualizer is a web application that allows users to upload CSV files, proc
 
 ## Deployed Web App
 
-[Visualize Data Here](https://nascentdatavisualizer.onrender.com/)
+[Visualize Data Here](https://data-vista.onrender.com/?#)
 
 # User Guide
 
@@ -32,9 +32,9 @@ Data Visualizer is a web application that allows users to upload CSV files, proc
 Ensure you have node installed on your local system.<br>Follow these steps:
 
 ```
-git clone https://github.com/AnsarulHaq786/data-visualizer.git
+git clone https://github.com/AnsarulHaq786/data-vista.git
 
-cd data-visualizer
+cd data-vista
 
 npm install
 
@@ -68,7 +68,7 @@ If you want to contribute, follow these steps:
 **Fork the Repository**<br>Click the Fork button on the top right of this page.<br>
 Create folder on your local machine then follow these steps:
 ```
-git clone https://github.com/ansarulhaq786/data-visualizer.git
+git clone https://github.com/ansarulhaq786/data-vista.git
 ```
 **Create a New Branch:**
 ```
