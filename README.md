@@ -70,6 +70,10 @@ Create folder on your local machine then follow these steps:
 ```
 git clone https://github.com/ansarulhaq786/data-vista.git
 ```
+Change directory
+```
+cd data-vista
+```
 **Create a New Branch:**
 ```
 git checkout -b your-feature-branch
