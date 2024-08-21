@@ -49,7 +49,7 @@ npm start
  
 #### <b>Sameep Kathayat<b><br>
 [Connect on GitHub](https://github.com/sameepkat)<br>
-[Connect on LinkedIn]()<br>
+[Connect on LinkedIn](https://www.linkedin.com/in/sameepkat/)<br>
 
 #### <b>Smriti Pandeya<b><br>
 [Connect on GitHub](https://github.com/smritipandeya)<br>
