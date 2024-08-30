@@ -53,11 +53,11 @@ npm start
 
 #### <b>Smriti Pandeya<b><br>
 [Connect on GitHub](https://github.com/smritipandeya)<br>
-[Connect on LinkedIn]()<br>
+[Connect on LinkedIn](https://www.linkedin.com/in/smriti-pandeya-/)<br>
 
 #### <b>Grish Rana<b><br>
 [Connect on GitHub](https://github.com/grishrana)<br>
-[Connect on LinkedIn](https://www.linkedin.com/in/smriti-pandeya-/)<br>
+[Connect on LinkedIn]()<br>
 
 ## Contribute on this open source
 
