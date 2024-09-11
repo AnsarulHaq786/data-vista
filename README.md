@@ -57,7 +57,7 @@ npm start
 
 #### <b>Grish Rana<b><br>
 [Connect on GitHub](https://github.com/grishrana)<br>
-[Connect on LinkedIn]()<br>
+[Connect on LinkedIn](https://www.linkedin.com/in/grishrana)<br>
 
 ## Contribute on this open source
 
