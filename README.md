@@ -45,7 +45,7 @@ npm start
 
 #### <b>Ansarul Haq</b><br>
 [Connect on GitHub](https://github.com/ansarulhaq786)<br>
-[Connect on LinkedIn]()<br>
+[Connect on LinkedIn](https://www.linkedin.com/in/ansarulhaq786/)<br>
  
 #### <b>Sameep Kathayat<b><br>
 [Connect on GitHub](https://github.com/sameepkat)<br>
